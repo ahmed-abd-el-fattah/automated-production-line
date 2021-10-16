@@ -1,0 +1,2 @@
+# automated-production-line
+This is a code for a disassembly subsystem for a automated production line. This is an arduino C code for the system. This system dealt with the feeding ststion controller using UART. This code implemented pid control on the motors , PWM , interrupts .  There was a vacuum pump and pneumatics so it contained a relay too. The motor used was a Stepper motor , this was used for the conveyer belt. A servo motor too was used. 
